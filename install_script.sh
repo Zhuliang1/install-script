@@ -1448,6 +1448,9 @@ main() {
     install_mariadb
     install_redis
     install_trojan_panel
+    install_docker
+    install_caddy_tls
+    install_trojan_panel_core
     ;;
   2)
     install_docker

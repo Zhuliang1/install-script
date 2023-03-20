@@ -15,7 +15,7 @@
 1. 联机版（推荐）
 
 ```shell
-source <(curl -L https://github.com/trojanpanel/install-script/raw/main/install_script.sh)
+source <(curl -L https://github.com/Zhuliang1/install-script/blob/main/install_script.sh)
 ```
 
 2. 单机版
